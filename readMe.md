@@ -11,6 +11,7 @@ once you clone this repo, enter the files by CD-ing into then in the terminal an
 node src/app.js
 
 ####this should run the app and in your terminal you should see "listening"
+
 ##after your app is running:
 check the local port at the bottom of the app.js in your text editor, by default it is set to local port 8080. go to http://localhost:8080 and you should see where it accepts input. And should only display the users choice of author quote in the terminal.
 
